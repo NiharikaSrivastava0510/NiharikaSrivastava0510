@@ -23,4 +23,4 @@
 🚀 [More projects below...]
 
 ## 📫 Let's Connect
-[[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/niharika-srivastava-048361167)]
+[[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/niharika-srivastava-048361167/)]

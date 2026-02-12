@@ -32,3 +32,8 @@ I've spent nearly a decade shipping production software for Fortune 500 companie
 
 ## 📫 Let's Connect
 [[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/niharika-srivastava-048361167/)]
+
+
+[[![E-Mail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:niharika051095@gmail.com)]
+
+"The best AI systems aren't just smart — they're well-engineered."

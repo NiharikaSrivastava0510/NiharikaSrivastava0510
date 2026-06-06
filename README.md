@@ -34,7 +34,7 @@ Building a modular LLM-agent architecture (multi-round negotiation + persistent 
 🛰️ **[Multimodal Flood Detection](https://github.com/NiharikaSrivastava0510/MultiModel-FloodDetection-Using-SAR-OpticalResNET)** — *Deep Learning*
 Fused Sentinel-1 SAR + Sentinel-2 optical satellite imagery with a dual-branch ResNet-50 and Squeeze-and-Excitation attention. **F1 0.85 / AUROC 0.97**, statistically beating every single-modality baseline.
 
-🔬 **[Human Activity Recognition](#)** — *Machine Learning*
+🔬 **[Human Activity Recognition](https://github.com/NiharikaSrivastava0510/Human-Interaction-system-using-ML)** — *Machine Learning*
 Processed **6.6M+** accelerometer readings; built and compared GMM, CNN, and Random Forest pipelines; **92.9% accuracy** with a fine-tuned CNN (batch-norm, dropout, Group K-Fold CV).
 
 🗣️ **[NLP — Transformers & LLMs](#)** — *Natural Language Processing*

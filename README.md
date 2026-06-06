@@ -26,9 +26,9 @@ I've spent nearly a decade shipping production software for Fortune 500 companie
 - 🚀 MLOps — taking models from notebook → production
 
 ## 📊 Featured Projects
-> *Swap the `#` links for your repo URLs as you publish each one.*
 
-🧠 **[LLM Agents: Compete or Cooperate?](#)** — *MSc dissertation (in progress)*
+
+🧠 **[LLM Agents: Compete or Cooperate?](https://github.com/NiharikaSrivastava0510/LLM-Agents-Compete-or-Cooperate)** — *MSc dissertation (in progress)*
 Building a modular LLM-agent architecture (multi-round negotiation + persistent memory + a symbolic solver for deterministic bidding) and testing adaptive cooperation vs. competition across a hospital-allocation game and a freight-procurement auction. Benchmarking GPT-4o and Llama 3.1 70B on Iridis HPC.
 
 🛰️ **[Multimodal Flood Detection](https://github.com/NiharikaSrivastava0510/MultiModel-FloodDetection-Using-SAR-OpticalResNET)** — *Deep Learning*

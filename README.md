@@ -31,7 +31,7 @@ I've spent nearly a decade shipping production software for Fortune 500 companie
 🧠 **[LLM Agents: Compete or Cooperate?](#)** — *MSc dissertation (in progress)*
 Building a modular LLM-agent architecture (multi-round negotiation + persistent memory + a symbolic solver for deterministic bidding) and testing adaptive cooperation vs. competition across a hospital-allocation game and a freight-procurement auction. Benchmarking GPT-4o and Llama 3.1 70B on Iridis HPC.
 
-🛰️ **[Multimodal Flood Detection](#)** — *Deep Learning*
+🛰️ **[Multimodal Flood Detection](https://github.com/NiharikaSrivastava0510/MultiModel-FloodDetection-Using-SAR-OpticalResNET)** — *Deep Learning*
 Fused Sentinel-1 SAR + Sentinel-2 optical satellite imagery with a dual-branch ResNet-50 and Squeeze-and-Excitation attention. **F1 0.85 / AUROC 0.97**, statistically beating every single-modality baseline.
 
 🔬 **[Human Activity Recognition](#)** — *Machine Learning*

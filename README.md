@@ -37,7 +37,7 @@ Fused Sentinel-1 SAR + Sentinel-2 optical satellite imagery with a dual-branch R
 🔬 **[Human Activity Recognition](https://github.com/NiharikaSrivastava0510/Human-Interaction-system-using-ML)** — *Machine Learning*
 Processed **6.6M+** accelerometer readings; built and compared GMM, CNN, and Random Forest pipelines; **92.9% accuracy** with a fine-tuned CNN (batch-norm, dropout, Group K-Fold CV).
 
-🗣️ **[NLP — Transformers & LLMs](#)** — *Natural Language Processing*
+🗣️ **[NLP — Transformers & LLMs](https://github.com/NiharikaSrivastava0510/NLP-Transformers-LLMs)** — *Natural Language Processing*
 Fine-tuned BERT for cross-domain sentiment classification (**macro-F1 0.87 → 0.90**) and explored parameter-efficient instruction-tuning with Alpaca-LoRA on OpenLLaMA-3B.
 
 ## 🧪 More Academic Projects

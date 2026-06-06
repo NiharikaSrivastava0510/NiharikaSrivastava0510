@@ -41,7 +41,7 @@ Processed **6.6M+** accelerometer readings; built and compared GMM, CNN, and Ran
 Fine-tuned BERT for cross-domain sentiment classification (**macro-F1 0.87 → 0.90**) and explored parameter-efficient instruction-tuning with Alpaca-LoRA on OpenLLaMA-3B.
 
 ## 🧪 More Academic Projects
-🎵 **[Music Genre Classification](#)** — Benchmarked six deep architectures (FC, CNN, BatchNorm, Bi-LSTM, conditional-GAN) on GTZAN; a 0.77M-param CNN hit **74.3%** accuracy — beating models 6–7× its size.
+🎵 **[Music Genre Classification](https://github.com/NiharikaSrivastava0510/Music-Genre-Classification-ML-models-CNN-and-RNN-with-LSTMs)** — Benchmarked six deep architectures (FC, CNN, BatchNorm, Bi-LSTM, conditional-GAN) on GTZAN; a 0.77M-param CNN hit **74.3%** accuracy — beating models 6–7× its size.
 🚢 **[Maritime Shipping Agent](#)** — Autonomous bidding/scheduling agent using Multi-Start construction + Large Neighbourhood Search for competitive auction environments.
 📈 **[Electricity Market Forecasting](#)** — Time-series pipeline (ARIMA / SARIMA / LSTM) over **140K+** records with 45 engineered features and walk-forward validation.
 🔗 **[Knowledge Graph Querying (SPARQL)](#)** — Ten advanced SPARQL queries over Wikidata with multi-level aggregation, property-path traversal, and endpoint-timeout optimisation.

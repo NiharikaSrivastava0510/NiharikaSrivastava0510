@@ -43,7 +43,7 @@ Fine-tuned BERT for cross-domain sentiment classification (**macro-F1 0.87 → 0
 ## 🧪 More Academic Projects
 🎵 **[Music Genre Classification](https://github.com/NiharikaSrivastava0510/Music-Genre-Classification-ML-models-CNN-and-RNN-with-LSTMs)** — Benchmarked six deep architectures (FC, CNN, BatchNorm, Bi-LSTM, conditional-GAN) on GTZAN; a 0.77M-param CNN hit **74.3%** accuracy — beating models 6–7× its size.
 🚢 **[Maritime Shipping Agent](https://github.com/NiharikaSrivastava0510/silicon_seas)** — Autonomous bidding/scheduling agent using Multi-Start construction + Large Neighbourhood Search for competitive auction environments.
-📈 **[Electricity Market Forecasting](#)** — Time-series pipeline (ARIMA / SARIMA / LSTM) over **140K+** records with 45 engineered features and walk-forward validation.
+📈 **[Electricity Market Forecasting](https://github.com/NiharikaSrivastava0510/Algorithmic-Trading-Using-Data-Mining)** — Time-series pipeline (ARIMA / SARIMA / LSTM) over **140K+** records with 45 engineered features and walk-forward validation.
 🔗 **[Knowledge Graph Querying (SPARQL)](https://github.com/NiharikaSrivastava0510/Knowledge-Graph-Querying-SPARQL)** — Ten advanced SPARQL queries over Wikidata with multi-level aggregation, property-path traversal, and endpoint-timeout optimisation.
 
 ## 📫 Let's Connect

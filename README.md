@@ -8,7 +8,7 @@
 > I build things that work at scale — and now I'm teaching machines to do the same.
 
 ## What I Bring to the Table
-I've spent nearly a decade shipping production software for Fortune 500 companies — serverless architectures on AWS, real-time systems for aerospace (Airbus), cloud migrations for global insurers (Liberty Mutual), and micro-frontend platforms for Japan's largest e-commerce company (Rakuten). Now I'm combining that engineering muscle with formal AI/ML training to build intelligent systems that are *actually* production-ready.
+I've spent nearly a decade shipping production software for Fortune 500 companies - serverless architectures on AWS, real-time systems for aerospace (Airbus), cloud migrations for global insurers (Liberty Mutual), and micro-frontend platforms for Japan's largest e-commerce company (Rakuten). Now I'm combining that engineering muscle with formal AI/ML training to build intelligent systems that are *actually* production-ready.
 
 ## 🛠️ Tech Stack
 
@@ -28,8 +28,8 @@ I've spent nearly a decade shipping production software for Fortune 500 companie
 ## 📊 Featured Projects
 
 
-🧠 **[LLM Agents: Compete or Cooperate?](https://github.com/NiharikaSrivastava0510/LLM-Agents-Compete-or-Cooperate)** — *MSc dissertation (in progress)*
-Building a modular LLM-agent architecture (multi-round negotiation + persistent memory + a symbolic solver for deterministic bidding) and testing adaptive cooperation vs. competition across a hospital-allocation game and a freight-procurement auction. Benchmarking GPT-4o and Llama 3.1 70B on Iridis HPC.
+🧠 **[LLM Agents: Compete or Cooperate?](https://github.com/NiharikaSrivastava0510/LLM-Agents-Compete-or-Cooperate)** — *MSc dissertation*
+Building a modular LLM-agent architecture (multi-round negotiation + persistent memory + a symbolic solver for deterministic bidding) and testing adaptive cooperation vs. competition across a hospital-allocation game and a freight-procurement auction. Benchmarking GPT-5.6 and Llama 3.1 70B on Iridis HPC.
 
 🛰️ **[Multimodal Flood Detection](https://github.com/NiharikaSrivastava0510/MultiModel-FloodDetection-Using-SAR-OpticalResNET)** — *Deep Learning*
 Fused Sentinel-1 SAR + Sentinel-2 optical satellite imagery with a dual-branch ResNet-50 and Squeeze-and-Excitation attention. **F1 0.85 / AUROC 0.97**, statistically beating every single-modality baseline.
